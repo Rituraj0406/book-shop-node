@@ -10,11 +10,12 @@
   },
   "author": "Ritu Raj",
   "license": "ISC",
-  "devDependencies": { 
+  "devDependencies": {
     "nodemon": "^3.1.10"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
+    "dotenv": "^17.2.3",
     "ejs": "^3.1.10",
     "express": "^4.16.3",
     "express-handlebars": "^8.0.3",
